@@ -22,7 +22,7 @@ In this tutorial, we'll create a sophisticated **AI Agent** using an **agentic a
 
 ---
 
-## 📚 What You'll Learn
+## 📚 =
 
 <table>
 <tr>
@@ -127,7 +127,7 @@ Your AI agent is now running on `http://localhost:8000` 🎉
 
 ---
 
-## 🧪 Testing Your AI Agent
+## 🧪 Testing AI Agent
 
 ### 💬 **Start a New Conversation**
 ```bash
@@ -253,17 +253,6 @@ Unlike traditional chatbots, our AI agent:
 
 ---
 
-## 🤝 Contributing
-
-We welcome contributions! Please feel free to submit a Pull Request.
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 <div align="center">
 
