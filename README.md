@@ -22,7 +22,6 @@ In this tutorial, we'll create a sophisticated **AI Agent** using an **agentic a
 
 ---
 
-## 📚 =
 
 <table>
 <tr>
@@ -255,9 +254,5 @@ Unlike traditional chatbots, our AI agent:
 
 
 <div align="center">
-
-**Built with ❤️ by Ania Kubow**
-
-⭐ **Star this repo if you found it helpful!** ⭐
 
 </div>
